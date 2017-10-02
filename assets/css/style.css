@@ -1,0 +1,21 @@
+#put-gif-here div {
+  display: inline-block;
+}
+.gif {
+  margin: 0 50px;
+}
+p {
+  text-align: center;
+}
+button {
+  margin: 0px 15px;
+}
+#topic-buttons {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+#gif-search {
+  text-align: center;
+}
